@@ -111,6 +111,7 @@ class ComposerStaticInita5a73742de20f86e96ce643cdf290db7
         ),
         'O' => 
         array (
+            'Overtrue\\LaravelLang\\' => 21,
             'Opis\\Closure\\' => 13,
         ),
         'N' => 
@@ -365,6 +366,10 @@ class ComposerStaticInita5a73742de20f86e96ce643cdf290db7
         array (
             0 => __DIR__ . '/..' . '/phpoption/phpoption/src/PhpOption',
         ),
+        'Overtrue\\LaravelLang\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/overtrue/laravel-lang/src',
+        ),
         'Opis\\Closure\\' => 
         array (
             0 => __DIR__ . '/..' . '/opis/closure/src',
@@ -529,6 +534,7 @@ class ComposerStaticInita5a73742de20f86e96ce643cdf290db7
         'App\\Http\\Controllers\\Auth\\VerificationController' => __DIR__ . '/../..' . '/app/Http/Controllers/Auth/VerificationController.php',
         'App\\Http\\Controllers\\Controller' => __DIR__ . '/../..' . '/app/Http/Controllers/Controller.php',
         'App\\Http\\Controllers\\PagesController' => __DIR__ . '/../..' . '/app/Http/Controllers/PagesController.php',
+        'App\\Http\\Controllers\\UserAddressesController' => __DIR__ . '/../..' . '/app/Http/Controllers/UserAddressesController.php',
         'App\\Http\\Kernel' => __DIR__ . '/../..' . '/app/Http/Kernel.php',
         'App\\Http\\Middleware\\Authenticate' => __DIR__ . '/../..' . '/app/Http/Middleware/Authenticate.php',
         'App\\Http\\Middleware\\EncryptCookies' => __DIR__ . '/../..' . '/app/Http/Middleware/EncryptCookies.php',
@@ -538,6 +544,8 @@ class ComposerStaticInita5a73742de20f86e96ce643cdf290db7
         'App\\Http\\Middleware\\TrustHosts' => __DIR__ . '/../..' . '/app/Http/Middleware/TrustHosts.php',
         'App\\Http\\Middleware\\TrustProxies' => __DIR__ . '/../..' . '/app/Http/Middleware/TrustProxies.php',
         'App\\Http\\Middleware\\VerifyCsrfToken' => __DIR__ . '/../..' . '/app/Http/Middleware/VerifyCsrfToken.php',
+        'App\\Http\\Requests\\Request' => __DIR__ . '/../..' . '/app/Http/Requests/Request.php',
+        'App\\Http\\Requests\\UserAddressRequest' => __DIR__ . '/../..' . '/app/Http/Requests/UserAddressRequest.php',
         'App\\Models\\User' => __DIR__ . '/../..' . '/app/Models/User.php',
         'App\\Models\\UserAddress' => __DIR__ . '/../..' . '/app/Models/UserAddress.php',
         'App\\Providers\\AppServiceProvider' => __DIR__ . '/../..' . '/app/Providers/AppServiceProvider.php',
@@ -3079,6 +3087,9 @@ class ComposerStaticInita5a73742de20f86e96ce643cdf290db7
         'Opis\\Closure\\SecurityProvider' => __DIR__ . '/..' . '/opis/closure/src/SecurityProvider.php',
         'Opis\\Closure\\SelfReference' => __DIR__ . '/..' . '/opis/closure/src/SelfReference.php',
         'Opis\\Closure\\SerializableClosure' => __DIR__ . '/..' . '/opis/closure/src/SerializableClosure.php',
+        'Overtrue\\LaravelLang\\Commands\\Publish' => __DIR__ . '/..' . '/overtrue/laravel-lang/src/Commands/Publish.php',
+        'Overtrue\\LaravelLang\\FileLoader' => __DIR__ . '/..' . '/overtrue/laravel-lang/src/FileLoader.php',
+        'Overtrue\\LaravelLang\\TranslationServiceProvider' => __DIR__ . '/..' . '/overtrue/laravel-lang/src/TranslationServiceProvider.php',
         'PHPUnit\\Exception' => __DIR__ . '/..' . '/phpunit/phpunit/src/Exception.php',
         'PHPUnit\\Framework\\ActualValueIsNotAnObjectException' => __DIR__ . '/..' . '/phpunit/phpunit/src/Framework/Exception/ActualValueIsNotAnObjectException.php',
         'PHPUnit\\Framework\\Assert' => __DIR__ . '/..' . '/phpunit/phpunit/src/Framework/Assert.php',
