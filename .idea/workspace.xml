@@ -2,28 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2548850f-1625-46a9-92a4-c153f2643176" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Http/Requests/Request.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Requests/UserAddressRequest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/js/components/SelectDistrict.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/js/components/UserAddressesCreateAndEdit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/user_addresses/create_and_edit.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/laravel-shop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/laravel-shop.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UserAddressesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UserAddressesController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/mix-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/mix-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/user_addresses/create_and_edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/user_addresses/create_and_edit.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/user_addresses/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/user_addresses/index.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -245,7 +228,10 @@
       <workItem from="1618391914905" duration="1229000" />
       <workItem from="1618393384322" duration="3114000" />
       <workItem from="1618460187481" duration="7938000" />
-      <workItem from="1618568210375" duration="3308000" />
+      <workItem from="1618568210375" duration="3451000" />
+      <workItem from="1619689113547" duration="251000" />
+      <workItem from="1619689454542" duration="2280000" />
+      <workItem from="1620378345581" duration="2387000" />
     </task>
     <servers />
   </component>
