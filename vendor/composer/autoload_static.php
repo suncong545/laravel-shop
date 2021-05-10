@@ -555,6 +555,9 @@ class ComposerStaticInita5a73742de20f86e96ce643cdf290db7
     );
 
     public static $classMap = array (
+        'App\\Admin\\Controllers\\AuthController' => __DIR__ . '/../..' . '/app/Admin/Controllers/AuthController.php',
+        'App\\Admin\\Controllers\\HomeController' => __DIR__ . '/../..' . '/app/Admin/Controllers/HomeController.php',
+        'App\\Admin\\Controllers\\UsersController' => __DIR__ . '/../..' . '/app/Admin/Controllers/UsersController.php',
         'App\\Console\\Kernel' => __DIR__ . '/../..' . '/app/Console/Kernel.php',
         'App\\Exceptions\\Handler' => __DIR__ . '/../..' . '/app/Exceptions/Handler.php',
         'App\\Http\\Controllers\\Auth\\ConfirmPasswordController' => __DIR__ . '/../..' . '/app/Http/Controllers/Auth/ConfirmPasswordController.php',
@@ -577,6 +580,8 @@ class ComposerStaticInita5a73742de20f86e96ce643cdf290db7
         'App\\Http\\Middleware\\VerifyCsrfToken' => __DIR__ . '/../..' . '/app/Http/Middleware/VerifyCsrfToken.php',
         'App\\Http\\Requests\\Request' => __DIR__ . '/../..' . '/app/Http/Requests/Request.php',
         'App\\Http\\Requests\\UserAddressRequest' => __DIR__ . '/../..' . '/app/Http/Requests/UserAddressRequest.php',
+        'App\\Models\\Product' => __DIR__ . '/../..' . '/app/Models/Product.php',
+        'App\\Models\\ProductSku' => __DIR__ . '/../..' . '/app/Models/ProductSku.php',
         'App\\Models\\User' => __DIR__ . '/../..' . '/app/Models/User.php',
         'App\\Models\\UserAddress' => __DIR__ . '/../..' . '/app/Models/UserAddress.php',
         'App\\Policies\\UserAddressPolicy' => __DIR__ . '/../..' . '/app/Policies/UserAddressPolicy.php',
@@ -686,6 +691,8 @@ class ComposerStaticInita5a73742de20f86e96ce643cdf290db7
         'Cron\\HoursField' => __DIR__ . '/..' . '/dragonmantank/cron-expression/src/Cron/HoursField.php',
         'Cron\\MinutesField' => __DIR__ . '/..' . '/dragonmantank/cron-expression/src/Cron/MinutesField.php',
         'Cron\\MonthField' => __DIR__ . '/..' . '/dragonmantank/cron-expression/src/Cron/MonthField.php',
+        'Database\\Factories\\ProductFactory' => __DIR__ . '/../..' . '/database/factories/ProductFactory.php',
+        'Database\\Factories\\ProductSkuFactory' => __DIR__ . '/../..' . '/database/factories/ProductSkuFactory.php',
         'Database\\Factories\\UserAddressFactory' => __DIR__ . '/../..' . '/database/factories/UserAddressFactory.php',
         'Database\\Factories\\UserFactory' => __DIR__ . '/../..' . '/database/factories/UserFactory.php',
         'Database\\Seeders\\DatabaseSeeder' => __DIR__ . '/../..' . '/database/seeders/DatabaseSeeder.php',
